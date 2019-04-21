@@ -1,0 +1,215 @@
+20-04-2019 01:43:38.534 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 22796 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 01:43:38.535 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 01:43:38.536 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 01:43:51.469 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarted - Started LabelRestControllerISpec in 13.891 seconds (JVM running for 25.306)
+20-04-2019 01:47:56.783 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 17824 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 01:47:56.808 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 01:47:56.812 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 01:48:09.083 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarted - Started LabelRestControllerISpec in 13.031 seconds (JVM running for 19.756)
+20-04-2019 01:49:47.456 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 17592 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 01:49:47.457 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 01:49:47.458 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 01:49:58.577 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarted - Started LabelRestControllerISpec in 11.849 seconds (JVM running for 20.68)
+20-04-2019 01:53:40.092 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 15912 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 01:53:40.093 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 01:53:40.094 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 01:53:56.248 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 9304 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 01:53:56.249 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 01:53:56.249 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 01:54:07.661 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 9304 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 01:54:07.661 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 01:54:07.662 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 01:54:09.492 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 9304 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 01:54:09.492 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 01:54:09.507 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 01:54:11.112 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 9304 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 01:54:11.112 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 01:54:11.113 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 01:55:26.081 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 11136 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 01:55:26.083 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 01:55:26.085 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 01:55:45.232 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarted - Started LabelRestControllerISpec in 21.365 seconds (JVM running for 25.064)
+20-04-2019 01:59:19.623 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 18404 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 01:59:19.624 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 01:59:19.624 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 01:59:24.236 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 18404 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 01:59:24.237 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 01:59:24.238 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 02:00:18.316 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 20964 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 02:00:18.317 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 02:00:18.318 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 02:00:32.837 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarted - Started LabelRestControllerISpec in 15.378 seconds (JVM running for 19.243)
+20-04-2019 12:49:21.050 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 9088 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 12:49:21.081 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 12:49:21.082 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 12:49:33.541 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 9088 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 12:49:33.541 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 12:49:33.542 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 12:53:01.783 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 18512 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 12:53:01.783 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 12:53:01.783 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 12:53:14.608 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 18512 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 12:53:14.608 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 12:53:14.608 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 12:55:34.361 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 13004 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 12:55:34.362 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 12:55:34.363 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 12:55:47.339 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 13004 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 12:55:47.339 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 12:55:47.339 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 12:56:45.377 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 21172 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 12:56:45.377 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 12:56:45.377 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 12:56:53.805 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 21172 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 12:56:53.806 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 12:56:53.807 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 12:58:16.937 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 12536 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 12:58:16.939 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 12:58:16.940 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 12:58:31.343 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarted - Started LabelRestControllerISpec in 15.344 seconds (JVM running for 20.535)
+20-04-2019 13:02:42.002 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 2588 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 13:02:42.003 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 13:02:42.004 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 13:03:01.573 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarted - Started LabelRestControllerISpec in 20.751 seconds (JVM running for 26.91)
+20-04-2019 13:04:00.680 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 24084 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 13:04:00.694 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 13:04:00.713 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 13:04:14.511 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarted - Started LabelRestControllerISpec in 14.843 seconds (JVM running for 18.369)
+20-04-2019 13:05:19.819 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 17792 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 13:05:19.821 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 13:05:19.822 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 13:05:34.290 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarted - Started LabelRestControllerISpec in 15.51 seconds (JVM running for 18.86)
+20-04-2019 13:06:15.925 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 12432 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 13:06:15.927 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 13:06:15.928 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 13:06:38.002 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarted - Started LabelRestControllerISpec in 25.067 seconds (JVM running for 28.774)
+20-04-2019 13:10:23.460 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 3304 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 13:10:23.461 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 13:10:23.463 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 13:10:37.629 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarted - Started LabelRestControllerISpec in 14.971 seconds (JVM running for 18.421)
+20-04-2019 13:11:59.582 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 12244 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 13:11:59.584 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 13:11:59.584 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 13:12:18.684 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarted - Started LabelRestControllerISpec in 20.078 seconds (JVM running for 25.705)
+20-04-2019 14:07:02.777 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 19832 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 14:07:02.777 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 14:07:02.777 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 14:07:17.776 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarted - Started LabelRestControllerISpec in 15.965 seconds (JVM running for 21.382)
+20-04-2019 14:07:58.981 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 5036 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 14:07:58.997 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 14:07:58.997 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 14:08:18.469 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarted - Started LabelRestControllerISpec in 20.706 seconds (JVM running for 26.661)
+20-04-2019 14:17:14.830 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 20228 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 14:17:14.830 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 14:17:14.834 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 14:17:29.999 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarted - Started LabelRestControllerISpec in 16.112 seconds (JVM running for 21.865)
+20-04-2019 14:18:36.036 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 4568 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 14:18:36.036 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 14:18:36.036 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 14:18:47.870 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarted - Started LabelRestControllerISpec in 12.669 seconds (JVM running for 16.348)
+20-04-2019 14:44:20.391 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Starting TaskRestControllerISpec on Mojahid with PID 17312 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 14:44:20.391 [main] DEBUG [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 14:44:20.391 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 14:44:27.915 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Starting TaskRestControllerISpec on Mojahid with PID 17312 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 14:44:27.916 [main] DEBUG [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 14:44:27.918 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 14:45:22.080 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Starting TaskRestControllerISpec on Mojahid with PID 21496 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 14:45:22.081 [main] DEBUG [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 14:45:22.082 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 14:45:37.081 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarted - Started TaskRestControllerISpec in 15.949 seconds (JVM running for 19.642)
+20-04-2019 14:46:30.791 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Starting TaskRestControllerISpec on Mojahid with PID 15748 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 14:46:30.791 [main] DEBUG [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 14:46:30.791 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 14:46:45.627 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarted - Started TaskRestControllerISpec in 15.705 seconds (JVM running for 21.113)
+20-04-2019 14:49:10.984 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Starting TaskRestControllerISpec on Mojahid with PID 21576 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 14:49:10.985 [main] DEBUG [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 14:49:10.987 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 14:49:26.536 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarted - Started TaskRestControllerISpec in 16.496 seconds (JVM running for 20.043)
+20-04-2019 14:50:18.220 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Starting TaskRestControllerISpec on Mojahid with PID 4672 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 14:50:18.221 [main] DEBUG [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 14:50:18.222 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 14:50:32.699 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarted - Started TaskRestControllerISpec in 15.39 seconds (JVM running for 20.709)
+20-04-2019 14:55:38.338 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Starting TaskRestControllerISpec on Mojahid with PID 16432 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 14:55:38.340 [main] DEBUG [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 14:55:38.341 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 14:55:56.773 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarted - Started TaskRestControllerISpec in 19.373 seconds (JVM running for 23.214)
+20-04-2019 14:56:39.260 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Starting TaskRestControllerISpec on Mojahid with PID 11224 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 14:56:39.261 [main] DEBUG [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 14:56:39.262 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 14:56:56.795 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarted - Started TaskRestControllerISpec in 18.41 seconds (JVM running for 21.745)
+20-04-2019 14:57:32.383 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Starting TaskRestControllerISpec on Mojahid with PID 21532 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 14:57:32.383 [main] DEBUG [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 14:57:32.383 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 14:57:47.086 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarted - Started TaskRestControllerISpec in 15.617 seconds (JVM running for 19.33)
+20-04-2019 14:58:11.451 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Starting TaskRestControllerISpec on Mojahid with PID 8712 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 14:58:11.452 [main] DEBUG [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 14:58:11.453 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 14:58:28.151 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarted - Started TaskRestControllerISpec in 17.698 seconds (JVM running for 23.371)
+20-04-2019 15:01:45.657 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Starting TaskRestControllerISpec on Mojahid with PID 16984 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 15:01:45.659 [main] DEBUG [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 15:01:45.660 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 15:02:04.767 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarted - Started TaskRestControllerISpec in 21.743 seconds (JVM running for 27.469)
+20-04-2019 15:03:23.765 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Starting TaskRestControllerISpec on Mojahid with PID 19712 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 15:03:23.767 [main] DEBUG [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 15:03:23.768 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 15:03:42.469 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarted - Started TaskRestControllerISpec in 19.662 seconds (JVM running for 23.224)
+20-04-2019 15:05:42.832 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Starting TaskRestControllerISpec on Mojahid with PID 20888 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 15:05:42.848 [main] DEBUG [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 15:05:42.848 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 15:05:57.671 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarted - Started TaskRestControllerISpec in 15.659 seconds (JVM running for 19.079)
+20-04-2019 15:14:08.282 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Starting TaskRestControllerISpec on Mojahid with PID 20264 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 15:14:08.297 [main] DEBUG [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 15:14:08.297 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 15:14:22.751 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarted - Started TaskRestControllerISpec in 15.338 seconds (JVM running for 19.11)
+20-04-2019 15:16:02.529 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Starting TaskRestControllerISpec on Mojahid with PID 26408 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 15:16:02.530 [main] DEBUG [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 15:16:02.531 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 15:16:16.823 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarted - Started TaskRestControllerISpec in 15.132 seconds (JVM running for 18.964)
+20-04-2019 15:18:10.576 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Starting TaskRestControllerISpec on Mojahid with PID 22272 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 15:18:10.577 [main] DEBUG [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 15:18:10.578 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 15:18:27.823 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarted - Started TaskRestControllerISpec in 18.483 seconds (JVM running for 22.251)
+20-04-2019 15:19:10.299 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Starting TaskRestControllerISpec on Mojahid with PID 16648 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 15:19:10.301 [main] DEBUG [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 15:19:10.301 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 15:19:26.169 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarted - Started TaskRestControllerISpec in 16.745 seconds (JVM running for 21.916)
+20-04-2019 15:20:09.627 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Starting TaskRestControllerISpec on Mojahid with PID 26380 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 15:20:09.629 [main] DEBUG [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 15:20:09.629 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 15:20:24.322 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarted - Started TaskRestControllerISpec in 15.662 seconds (JVM running for 21.224)
+20-04-2019 15:21:28.269 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Starting TaskRestControllerISpec on Mojahid with PID 21048 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 15:21:28.270 [main] DEBUG [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 15:21:28.271 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 15:21:42.711 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarted - Started TaskRestControllerISpec in 15.336 seconds (JVM running for 18.728)
+20-04-2019 15:24:25.533 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Starting TaskRestControllerISpec on Mojahid with PID 23692 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 15:24:25.536 [main] DEBUG [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 15:24:25.537 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 15:24:42.606 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarted - Started TaskRestControllerISpec in 17.918 seconds (JVM running for 21.601)
+20-04-2019 15:41:07.854 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Starting TaskRestControllerISpec on Mojahid with PID 12324 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 15:41:07.858 [main] DEBUG [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 15:41:07.858 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 15:41:24.002 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarted - Started TaskRestControllerISpec in 17.048 seconds (JVM running for 20.729)
+20-04-2019 15:44:29.980 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Starting TaskRestControllerISpec on Mojahid with PID 9552 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 15:44:29.984 [main] DEBUG [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 15:44:29.984 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 15:44:41.971 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarted - Started TaskRestControllerISpec in 12.866 seconds (JVM running for 16.374)
+20-04-2019 15:46:01.395 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Starting TaskRestControllerISpec on Mojahid with PID 16008 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 15:46:01.395 [main] DEBUG [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 15:46:01.395 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 15:46:16.824 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarted - Started TaskRestControllerISpec in 16.297 seconds (JVM running for 21.624)
+20-04-2019 16:04:38.538 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Starting TaskRestControllerISpec on Mojahid with PID 14040 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 16:04:38.542 [main] DEBUG [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 16:04:38.542 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 16:04:55.958 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarted - Started TaskRestControllerISpec in 18.312 seconds (JVM running for 23.813)
+20-04-2019 16:06:18.673 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Starting LabelRestControllerISpec on Mojahid with PID 9372 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 16:06:18.673 [main] DEBUG [] [] c.j.t.r.LabelRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 16:06:18.673 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 16:06:33.777 [main] INFO  [] [] c.j.t.r.LabelRestControllerISpec.logStarted - Started LabelRestControllerISpec in 16.15 seconds (JVM running for 22.25)
+20-04-2019 16:06:47.317 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Starting TaskRestControllerISpec on Mojahid with PID 12040 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 16:06:47.317 [main] DEBUG [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 16:06:47.317 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 16:07:01.625 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarted - Started TaskRestControllerISpec in 15.232 seconds (JVM running for 18.657)
+20-04-2019 16:07:24.408 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Starting TaskRestControllerISpec on Mojahid with PID 3748 (started by mojahid in E:\NewProjects\task-manager)
+20-04-2019 16:07:24.412 [main] DEBUG [] [] c.j.t.r.TaskRestControllerISpec.logStarting - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+20-04-2019 16:07:24.412 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStartupProfileInfo - The following profiles are active: test
+20-04-2019 16:07:37.774 [main] INFO  [] [] c.j.t.r.TaskRestControllerISpec.logStarted - Started TaskRestControllerISpec in 14.264 seconds (JVM running for 19.644)

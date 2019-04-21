@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration>
+
+  <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+    <encoder>
+      <pattern>%d{dd-MM-yyyy HH:mm:ss.SSS} %magenta([%thread]) %highlight(%-5level) %logger{36}.%M - %msg%n</pattern>
+    </encoder>
+  </appender>
+
+  <!--  &lt;!&ndash;Simple File Appender&ndash;&gt;
+    <appender name="FILE" class="ch.qos.logback.core.FileAppender">
+      <file>${OPTACUT_HOME}/log/optacut.log</file>
+      <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+        <pattern>%d{dd-MM-yyyy HH:mm:ss.SSS} [%thread] %-5level %logger{36}.%M - %msg%n</pattern>
+      </encoder>
+    </appender>
+
+    &lt;!&ndash;Time based rolling appender&ndash;&gt;
+    <appender name="T_FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+      <file>${OPTACUT_HOME}/log/optacut.log</file>
+      <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+        <Pattern>%d{dd-MM-yyyy HH:mm:ss.SSS} [%thread] %-5level %logger{36}.%M - %msg%n</Pattern>
+      </encoder>
+      <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+        <fileNamePattern>${OPTACUT_HOME}/log/log_%d{dd-MM-yyyy}.log</fileNamePattern>
+        <maxHistory>30</maxHistory>
+        <totalSizeCap>100MB</totalSizeCap>
+      </rollingPolicy>
+    </appender>-->
+
+  <!--Time And Size based rolling appender-->
+  <appender name="TS_FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+    <file>task-manager.log</file>
+    <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+      <Pattern>%d{dd-MM-yyyy HH:mm:ss.SSS} [%thread] %-5level [%X{tenant}] [%X{orderIdOrFabricId}] %logger{36}.%M - %msg%n</Pattern>
+    </encoder>
+    <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+      <fileNamePattern>log_%d{dd-MM-yyyy}_%i.log</fileNamePattern>
+      <maxFileSize>10MB</maxFileSize>
+      <maxHistory>30</maxHistory>
+      <totalSizeCap>100MB</totalSizeCap>
+    </rollingPolicy>
+  </appender>
+
+
+  <logger name="com.jazasoft.taskmanager" level="DEBUG" additivity="false">
+    <appender-ref ref="TS_FILE" />
+    <appender-ref ref="STDOUT" />
+  </logger>
+
+
+  <logger name="org.springframework" level="INFO" >
+    <appender-ref ref="STDOUT" />
+  </logger>
+
+  <logger name="org.hibernate" level="INFO" >
+    <appender-ref ref="STDOUT" />
+  </logger>
+  <!--<logger name="org.optaplanner" level="DEBUG">-->
+  <!--<appender-ref ref="STDOUT" />-->
+  <!--</logger>-->
+
+  <!-- Strictly speaking, the level attribute is not necessary since -->
+  <!-- the level of the root level is set to DEBUG by default.       -->
+  <root level="INFO">
+    <appender-ref ref="STDOUT" />
+  </root>
+</configuration>

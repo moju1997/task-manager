@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+                   xmlns:ext="http://www.liquibase.org/xml/ns/dbchangelog-ext"
+                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog-ext http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.4.xsd">
+    <changeSet author="Md Mojahid (generated)" id="1532503083235-1">
+        <insert tableName="label">
+            <column name="id" valueNumeric="1"/>
+            <column name="name" value="Label 1"/>
+        </insert>
+
+        <insert tableName="label">
+            <column name="id" valueNumeric="2"/>
+            <column name="name" value="Label 2"/>
+        </insert>
+
+        <insert tableName="label">
+            <column name="id" valueNumeric="3"/>
+            <column name="name" value="Label 3"/>
+        </insert>
+
+        <insert tableName="task">
+            <column name="id" valueNumeric="1"/>
+            <column name="name" value="Task 1"/>
+            <column name="label_id" value="2" />
+        </insert>
+        <insert tableName="task">
+            <column name="id" valueNumeric="2"/>
+            <column name="name" value="Task 2"/>
+            <column name="label_id" value="2" />
+        </insert>
+        <insert tableName="task">
+            <column name="id" valueNumeric="3"/>
+            <column name="name" value="Task 3"/>
+            <column name="label_id" value="3" />
+        </insert>
+
+    </changeSet>
+</databaseChangeLog>
